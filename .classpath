@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/大二上学期/java基础入门/jar/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="E:/大二上学期/java基础入门/jar/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="E:/大二上学期/java基础入门/jar/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/大二上学期/java基础入门/jar/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="E:/大二上学期/java基础入门/jar/poi-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/大二上学期/java基础入门/jar/poi-ooxml-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/大二上学期/java基础入门/jar/poi-ooxml-schemas-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/大二上学期/java基础入门/jar/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/大二上学期/java基础入门/Qrcode_A.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
